@@ -1,0 +1,2 @@
+class GitAppTestController < ApplicationController
+end
